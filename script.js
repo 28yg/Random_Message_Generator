@@ -1,1 +1,0 @@
-console.log("Mix Message Project kick off. Hurray! We are ready fo go.");
