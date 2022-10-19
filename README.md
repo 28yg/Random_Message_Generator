@@ -14,7 +14,7 @@ The technology used include:
 2. Additionally, the javascript files was extended by incorporating HTML and CSS into the file to make it to be more interactive. 
 
 ## **To run the javascript files, carry out the following steps:**
-**Javascript file(s):
+**Javascript file(s):**
 + Download the javascript file(s).
 + Run the program
 + Three set of **random motivational quotes** will be generated each time the program is run.
