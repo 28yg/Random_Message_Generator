@@ -20,5 +20,6 @@ The technology used include:
 + Three set of **random motivational quotes** will be generated each time the program is run.
 
 ## **Web site**
-Visit the web site by clicking on the [LIKN][href="https://28yg.github.io/Random_Message_Generator/"]
+**Visit the web site by clicking on the** [Random Message Generator](href="https://28yg.github.io/Random_Message_Generator/)
+**Visit our website** [Apex Swimming Club](https://28yg.github.io/Apex-swimming-club/)
 
