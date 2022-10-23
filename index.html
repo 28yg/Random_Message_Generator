@@ -1,0 +1,35 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Mix Messages</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+        <link rel="stylesheet" href="styles.css">
+
+       <!--NOTE: THE JAVASCRIPT LINK (src script tag) IS JUST BEFORE THE "<\/body> tab" RIGHT AT THE BOTTOM OF THE PAGE. --> 
+     <!--This Javascript "src scrip tag" should come last just before the closing body tag, 
+    so that the DOM is loaded first so that the javascript (for example "locate.reload()" within the 
+    button tag [ <button onclick="location.reload();">CLICK ME</button> ] in this case, 
+    can access (ie- reloads or refreshes) the DOM (the page)) only when it has been loaded,-->
+    
+
+        
+        
+
+
+</head>
+    <body>  
+        <h1>Random Motivational Message Generator</h1>
+        <h2>Are you ready?  </h2>
+        <h3>Then click the button and get uplifted!</h3>
+        
+        <hr>
+        <button onclick="location.reload();">CLICK ME</button> 
+        <p id="demo"></p>
+        <hr>
+
+        <script src="./messageGenerator.js"></script>
+    </body>
+    <footer>
+        <h6>Copyright &copy;2022</h6><h5>All rights reserved. Designed by KY</h5>
+    </footer>
+</html>
