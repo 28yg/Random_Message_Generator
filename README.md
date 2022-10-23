@@ -11,7 +11,7 @@ The technology used include:
 
 # General Information
 This javascript program was extended, by incorporating HTML and CSS into the program to make it to be more interactive. 
-To make your program truly random, the message that it outputs is made up of at least three different pieces of data.
+To make this program truly random, the message that it outputs is made up of at least three different pieces of data.
 
 ## **To run the program, carry out the following steps:**
 + Click on the [LINK](https://28yg.github.io/Random_Message_Generator/)
