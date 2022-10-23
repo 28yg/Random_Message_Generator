@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: cursive;
+    font-size: 18px;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
