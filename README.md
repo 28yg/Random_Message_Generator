@@ -4,7 +4,7 @@ This project **generates random Motivational Quotes** each time it is run.
 The technology used include:
 + Javascript
 + Git and GitHub
-+ Command line
++ Command line 
 + HTML 
 + CSS
 
